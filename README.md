@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ctrbail
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning ... TBC
+- 🌱 I’m currently learning Python, HTML, JavaScript
 - 💞️ I’m looking to collaborate on ... not much ATM
 - 📫 How to reach me ... travis.r.bailey@gmail.com
 
